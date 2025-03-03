@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 About Me
+
+Hi there! I'm Mohamed Ragab, a passionate Data Scientist and Analytics Enthusiast with a strong background in Computer and Data Science. As a senior-year student at Alexandria University, I have honed my skills in Python, SQL, R, and Power BI, specializing in machine learning, predictive modeling, and data mining.
+
+I thrive on leveraging data to extract meaningful insights, optimize decision-making, and drive impactful business outcomes. Through my experiences at Digital Egypt Pioneers Initiative and Mentorness, I have worked on AI-driven projects, deep learning applications, and data-driven problem-solving.
+
+With expertise in TensorFlow, PyTorch, and Scikit-learn, I enjoy tackling challenges in artificial intelligence, data engineering, and business analytics. My goal is to contribute innovative solutions to dynamic, data-driven environments.
+
+🚀 Let’s connect! I’m always open to collaborating on exciting AI and data science projects.
+
