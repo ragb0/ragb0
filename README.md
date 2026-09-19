@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 👋 About Me
 
-Hi there! I'm Mohamed Ragab, a passionate Data Scientist and Analytics Enthusiast with a strong background in Computer and Data Science. As a senior-year student at Alexandria University, I have honed my skills in Python, SQL, R, and Power BI, specializing in machine learning, predictive modeling, and data mining.
+Hi there! I’m Mohamed Ragab, a Data Science graduate with a strong background in Computer and Data Science and a growing focus on Data Engineering, Analytics, and Artificial Intelligence.
 
-I thrive on leveraging data to extract meaningful insights, optimize decision-making, and drive impactful business outcomes. Through my experiences at Digital Egypt Pioneers Initiative and Mentorness, I have worked on AI-driven projects, deep learning applications, and data-driven problem-solving.
+I have hands-on experience with Python, SQL, R, Power BI, data modeling, data collection, data preprocessing, ETL, SSIS, SQL Server, Microsoft Fabric, and Microsoft Azure. I also have a strong foundation in machine learning, predictive modeling, data mining, and data visualization.
 
-With expertise in TensorFlow, PyTorch, and Scikit-learn, I enjoy tackling challenges in artificial intelligence, data engineering, and business analytics. My goal is to contribute innovative solutions to dynamic, data-driven environments.
+Through my experience with the Digital Egypt Pioneers Initiative (DEPI), Mentorness, and Outlier, I have worked on data analysis, AI-driven projects, machine learning applications, SQL-based analysis, and AI model evaluation. My work at Outlier also involved reviewing and improving AI-generated solutions across Data Science, SQL, and Mathematics tasks.
 
-🚀 Let’s connect! I’m always open to collaborating on exciting AI and data science projects.
+I enjoy transforming raw data into structured and meaningful information, building data-driven solutions, and using analytics and machine learning to solve real-world problems. I’m particularly interested in developing my career across Data Engineering, Data Science, Business Intelligence, and AI.
+
+🚀 I’m always open to connecting with professionals, collaborating on data and AI projects, and exploring opportunities where I can continue learning and contribute to impactful, data-driven solutions.
 
